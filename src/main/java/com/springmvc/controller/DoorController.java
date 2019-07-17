@@ -3,6 +3,7 @@ package com.springmvc.controller;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 public class DoorController {
@@ -27,7 +28,11 @@ public class DoorController {
      * @return
      */
 
+    @RequestMapping("/wcnm")
+    public String a(){
 
+        return  "a";
+    }
 
     /**
      * 新增 门店的信息 doorAdd
