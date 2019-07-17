@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ty/annotation/TestAnnotation01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ty/cache/Cache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ty/cache/FifoCache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ty/cache/KryoUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ty/cache/SerializedCache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ty/enums/TestEnum02.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/_left.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/_right.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/_top.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/door_add.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/door_list.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/door_update.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/order_add.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/order_list.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/order_update.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/test.jsp" charset="GBK" />
+  </component>
+</project>
